@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05983fa8-c3ad-4c34-bf74-213bbd80216d" name="Changes" comment="" />
+    <list default="true" id="05983fa8-c3ad-4c34-bf74-213bbd80216d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/stringpython -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/stringpython -checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rakeshwoorkfile3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rakeshwoorkfile3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nikkyclassfunction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nikkyclassfunction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nikkypythonprac.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/nikkypythonprac.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringpython .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/stringpython .ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2bj1JL7fN2FjLiJtYGJkbkQfltF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.testpython.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nikky/Documents/project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.testpython.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikky/Documents/project&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="testpython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project" />
